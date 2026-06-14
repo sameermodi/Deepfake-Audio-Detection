@@ -1,6 +1,6 @@
-streamlit==1.41.0
-tensorflow-cpu==2.18.0
-soundfile==0.12.1
-numpy==1.26.4
-scipy==1.13.1
-matplotlib==3.9.2
+streamlit
+tensorflow-cpu
+soundfile
+numpy
+scipy
+matplotlib
