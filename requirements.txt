@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+soundfile
+numpy
+scipy
+matplotlib
